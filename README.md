@@ -1,5 +1,5 @@
 # Site Name : Medicoz
-Site Live Link : [https://skilup.netlify.app/]
+Site Live Link : [https://medicoz-720df.web.app/]
 
 # Technology Uses
 * JSX (JavaScript XML)
