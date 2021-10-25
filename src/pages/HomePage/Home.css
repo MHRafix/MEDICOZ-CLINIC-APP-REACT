@@ -1,0 +1,162 @@
+.homeSection {
+    padding-top: 100px;
+    background-color: #f5f5f5;
+}
+
+h1.themeTitle {
+    font-weight: 700;
+    color: #444;
+    line-height: 55px;
+    margin-bottom: 15px;
+    font-size: 48px;
+}
+
+p.themePera {
+    font-size: 18px;
+    color: #333;
+    font-weight: 500;
+}
+
+button.regularBtn {
+    color: #16a085;
+    border-radius: 5px;
+    border: 2px solid #16a085;
+    padding: 7px 25px;
+    background: white;
+    font-weight: 500;
+}
+
+button.regularBtn:hover {
+    background: #16a085;
+    color: white;
+    transition: .3s;
+    letter-spacing: 2px;
+}
+
+
+h1.title {
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 50px;
+}
+
+span.highlight {
+    color: #16a085;
+}
+
+.serviceBox {
+    border: 2px solid #16a085;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 15px 0px;
+}
+
+
+.FeaturedService {
+    padding: 100px 0px;
+}
+
+.serviceBox img {
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+h2.serviceTitle {
+    font-size: 30px;
+    font-weight: 700;
+    color: #444;
+    text-shadow: 0.0rem 0.4rem 0 rgb(0 0 0 / 20%);
+
+}
+
+p.serviceDesc {
+    font-weight: 500;
+    font-size: 17px;
+}
+
+
+.satisfactionSection {
+    padding: 100px 0px;
+    background: #f5f5f5;
+}
+
+.satisfiedBox {
+    border: 2px solid #16a085;
+    padding: 20px 15px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 15px 0px;
+}
+
+h2.satisfiyedTitle {
+    font-size: 45px;
+    font-weight: bolder;
+    color: #444;
+    text-shadow: 0.0rem 0.4rem 0 rgb(0 0 0 / 20%);
+}
+
+p.satisfiyedDesc {
+    font-weight: 700;
+    color: #444;
+}
+
+span.fas {
+    color: #16a085;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.doctorsSection {
+    padding: 100px 0px;
+}
+
+
+.doctorBioBox {
+    border: 2px solid #16a085;
+    border-radius: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    background: #f5f5f5;
+    margin: 15px 0px;
+}
+
+.doctorBioBox img {
+    width: 100%;
+    height: 200px;
+    border-radius: 5px;
+}
+
+h2.doctorName {
+    font-size: 22px;
+    font-weight: 700;
+    color: #444;
+    margin: 10px 0px;
+}
+
+.dualinfo {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 500;
+    color: #444;
+    margin: 15px 0px;
+}
+/* Responsive css starts from here  */
+@media only screen and (max-width: 992px) {
+    h1.themeTitle {
+        font-weight: 700;
+        color: #444;
+        line-height: 45px;
+        margin-bottom: 15px;
+        font-size: 35px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    h1.title {
+        font-weight: 700;
+        text-align: center;
+        margin-bottom: 40px;
+        font-size: 40px;
+    }
+}

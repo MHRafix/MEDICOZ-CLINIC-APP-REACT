@@ -1,0 +1,85 @@
+[
+    {
+      "uniqueId": "1",
+      "doctorName": "John Doe",
+      "operation": "200+",
+      "consaltant": "Neorology",
+      "visitFee": "20",
+      "availableTime": "7am - 12pm",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtw2eYA6vKvT2ob_yk8LYcLUIJMsOKAVl5SA&usqp=CAU",
+      "institute": "London medical college",
+      "degree": "MBBS",
+      "experience": "20",
+      "about": "Hello I'm John Doe neorology specialist. I have 20 years experience with different patient and different cases. My rules is first listen then understand then feel and search and last give medicine. I also have 200+ operation experience with 95% sccess rate. Please book serial before coming."
+    },
+    {
+      "uniqueId": "2",
+      "doctorName": "Shila Jaoyani",
+      "operation": "150+",
+      "consaltant": "Plastic Surgery",
+      "visitFee": "15",
+      "availableTime": "7pm - 10pm",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYdufgSJjlWan97UR-N2tbjPpaggThZYVEQ&usqp=CAU",
+      "institute": "Thailand medical college",
+      "degree": "FCPS",
+      "experience": "17",
+      "about": "Hello I'm John Doe neorology specialist. I have 20 years experience with different patient and different cases. My rules is first listen then understand then feel and search and last give medicine. I also have 200+ operation experience with 95% sccess rate. Please book serial before coming."
+
+    },
+    {
+      "uniqueId": "3",
+      "doctorName": "Jack Jone",
+      "operation": "240+",
+      "consaltant": "Medicine",
+      "visitFee": "13",
+      "availableTime": "5pm - 8pm",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhzm0Q-gCeH2_UFcPWaB9--f37p8XG8b3nLA&usqp=CAU",
+      "institute": "Jarmeny medical college",
+      "degree": "Medicine",
+      "experience": "40",
+      "about": "Hello I'm John Doe neorology specialist. I have 20 years experience with different patient and different cases. My rules is first listen then understand then feel and search and last give medicine. I also have 200+ operation experience with 95% sccess rate. Please book serial before coming."
+
+    },
+    {
+      "uniqueId": "4",
+      "doctorName": "Mery Bill",
+      "operation": "80+",
+      "consaltant": "Skin",
+      "visitFee": "16",
+      "availableTime": "5pm - 7.30pm",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMTs3WyiEvF-JzkHZVaFIVte7frqydvYpr7Q&usqp=CAU",
+      "institute": "China medical college",
+      "degree": "Skin",
+      "experience": "10",
+      "about": "Hello I'm John Doe neorology specialist. I have 20 years experience with different patient and different cases. My rules is first listen then understand then feel and search and last give medicine. I also have 200+ operation experience with 95% sccess rate. Please book serial before coming."
+
+    },
+    {
+      "uniqueId": "5",
+      "doctorName": "Abu Raihan",
+      "operation": "110+",
+      "consaltant": "Orthopedic",
+      "visitFee": "23",
+      "availableTime": "5pm - 9.30pm",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9t1lEzWGTTjhoCbQgZ3gjDNZsdP-ZOiALg&usqp=CAU",
+      "institute": "Dhaka medical college",
+      "degree": "FCPS",
+      "experience": "12",
+      "about": "Hello I'm John Doe neorology specialist. I have 20 years experience with different patient and different cases. My rules is first listen then understand then feel and search and last give medicine. I also have 200+ operation experience with 95% sccess rate. Please book serial before coming."
+
+    },
+    {
+      "uniqueId": "6",
+      "doctorName": "Henry Haid",
+      "operation": "90+",
+      "consaltant": "Physiology",
+      "visitFee": "17",
+      "availableTime": "3pm - 6pm",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PpUThdtq_IUCP4oZ1nnmqSbGYBBDS6odbA&usqp=CAU",
+      "institute": "Ireland medical college",
+      "degree": "MBBS",
+      "experience": "18",
+      "about": "Hello I'm John Doe neorology specialist. I have 20 years experience with different patient and different cases. My rules is first listen then understand then feel and search and last give medicine. I also have 200+ operation experience with 95% sccess rate. Please book serial before coming."
+
+    }
+  ]

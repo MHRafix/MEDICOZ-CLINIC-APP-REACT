@@ -1,0 +1,58 @@
+[
+  {
+    "uniqueId": "1",
+    "medicineName": "Napa Extra",
+    "medicineImg": "https://nawbahar.com/images/simple_products/gallery/product_gallery_6114c4770615f.jpg",
+    "price": "4",
+    "unitQnt": "10"
+  },
+  {
+    "uniqueId": "2",
+    "medicineName": "Ace Plus",
+    "medicineImg": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/watermarked/2019-08-07_075826.730653Thumbnail_62.jpg",
+    "price": "5",
+    "unitQnt": "10"
+  },
+  {
+    "uniqueId": "3",
+    "medicineName": "Ace XR",
+    "medicineImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvt1oxNWJet0VN2hnjVKi-tTl2pCGUnDM5SFit2PFK_C4nrevgqt0fWghFWNEDrJsyR3s&usqp=CAU",
+    "price": "12",
+    "unitQnt": "10"
+  },
+  {
+    "uniqueId": "4",
+    "medicineName": "Alatrol",
+    "medicineImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtv3wvbrUKW1JXDiytsWMth6YoyktIBxv-aVcleZSyb2D64ujk0ZYMgTBI5hzUZsLH5Ho&usqp=CAU",
+    "price": "7",
+    "unitQnt": "10"
+  },
+  {
+    "uniqueId": "5",
+    "medicineName": "Ciprocine",
+    "medicineImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpoPa3lF7bYi9KbSIIgdh3XIhcWqiz1ojP9Pp8rcv9Jk5O5U5HXAB64OxMWNp5IVLYZ6A&usqp=CAU",
+    "price": "3",
+    "unitQnt": "10"
+  },
+  {
+    "uniqueId": "6",
+    "medicineName": "Flurzin - 10",
+    "medicineImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ-hGK5_ZzodCs2mdfwWzzEuTfJ5x3qy8nIbtOSe632VMV3Z1fKPxuCTs1T__6fFb6pfw&usqp=CAU",
+    "price": "13",
+    "unitQnt": "10"
+  },
+  {
+    "uniqueId": "7",
+    "medicineName": "Ecap-plus",
+    "medicineImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMnMkLcCsnarwVdMz3O9HoUGXVKEJ39gH6vSgD2w45lYpBUj3m8HnR8kNjlxwbPVzpL0&usqp=CAU",
+    "price": "4",
+    "unitQnt": "6"
+  },
+  {
+    "uniqueId": "8",
+    "medicineName": "Prima cap",
+    "medicineImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMnMkLcCsnarwVdMz3O9HoUGXVKEJ39gH6vSgD2w45lYpBUj3m8HnR8kNjlxwbPVzpL0&usqp=CAU",
+    "price": "4",
+    "unitQnt": "6"
+  }
+]

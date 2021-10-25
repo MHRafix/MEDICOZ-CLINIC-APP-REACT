@@ -1,0 +1,111 @@
+.singleDoctorArea {
+    padding: 150px 0px;
+    background: #f5f5f5;
+}
+
+.doctorArea {
+    background: white;
+    box-shadow: 1px 1px 6px #77767654;
+    padding: 15px 20px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.doctorImage {
+    width: 402px;
+}
+
+.doctorImage img {
+    width: 100%;
+    border-radius: 10px;
+    height: 250px;
+}
+
+.doctorInfo {
+    width: 70%;
+    padding-left: 40px;
+}
+.dualInfo2 {
+    float: left;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.dualInfo3 {
+    display: block;
+    font-weight: 700;
+    float: right;
+    color: #16a085;
+}
+
+.singleDoctorName{
+    font-weight: 700;
+    font-size: 30px;
+}
+.dualInfo{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/* Rsponsive css starts from here */
+@media only screen and (max-width: 992px) {
+    .doctorInfo {
+        width: 100%;
+        padding-left: 0px;
+        margin-top: 20px;
+    }
+
+    .doctorArea {
+        display: grid;
+    }
+    .doctorImage {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+.singleDoctorName {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+}
+
+@media only screen and (max-width: 375px) {
+.singleDoctorName {
+    font-weight: 700;
+    font-size: 17px;
+}
+.dualInfo2 {
+    float: left;
+    font-size: 15px;
+    font-weight: 700;
+}
+.dualInfo3 {
+    display: block;
+    font-weight: 700;
+    font-size: 15px;
+    float: right;
+    color: #16a085;
+}
+}
+
+@media only screen and (max-width: 320px) {
+.singleDoctorName {
+    font-weight: 700;
+    font-size: 17px;
+}
+.dualInfo2 {
+    float: left;
+    font-size: 14px;
+    font-weight: 700;
+}
+.dualInfo3 {
+    display: block;
+    font-weight: 700;
+    font-size: 13px;
+    float: right;
+    color: #16a085;
+}
+}

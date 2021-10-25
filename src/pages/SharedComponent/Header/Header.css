@@ -1,0 +1,77 @@
+.headerSection {
+    background: #ffffff;
+    color: white;
+    position: fixed;
+    z-index: 99;
+    padding: 5px 0px;
+    width: 100%;
+    box-shadow: 1px 1px 6px #77767654;
+}
+
+a#Logo {
+    color: #16a085;
+    font-size: 30px;
+}
+
+span.logoIcon {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+span.logoText {
+    font-weight: 700;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    margin-left: 5px;
+}
+
+a#basic-nav-dropdown {
+    color: #050814;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+a#navMenuDropdown,
+a#navMenu{
+    color: #050814;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    margin: 7px 0px;
+}
+
+a#navMenuDropdown,
+a#navMenu:hover {
+    color: #16a085;
+    transition: .3s;
+}
+
+
+a#navMenuDropdown:hover {
+    transition: .3s;
+    color: #16a085;
+}
+button.emergencyBtn{
+    padding: 7px 20px;
+    background: #16a085;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+div#basic-navbar-nav {
+    text-align: center;
+}
+
+.me-auto.navbar-nav {
+    margin: auto;
+}
+
+.account{
+    text-align: right;
+}
+
+.dropdown-menu.show {
+    background: #ffffff;
+}
